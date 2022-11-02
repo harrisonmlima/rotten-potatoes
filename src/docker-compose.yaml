@@ -45,3 +45,4 @@ services:
       - mongodb:/data/db
     environment:
       ME_CONFIG_MONGODB_URL: mongodb://mongouser:mongopwd@mongo:27017/
+
